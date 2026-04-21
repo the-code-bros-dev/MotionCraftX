@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌌 The Code Bros Dev — Next-Gen Web Experience
 >Building modern, scalable, and aesthetic web experiences 🚀
 > A premium, high-performance web application built with modern technologies to deliver smooth UI, interactive animations, and scalable architecture.
@@ -34,6 +33,5 @@
 - Stripe
 - Apple
 =======
-# MotionCraftX
+# ⚡MotionCraftX
 Crafting high-performance, animation-driven web experiences with modern UI and seamless interactions.
->>>>>>> 7f01260880d5c9504625388c5a67fb7c0d541b53
