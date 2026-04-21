@@ -30,9 +30,9 @@
 
 ## 🎨 UI Inspiration
 
-Dribbble
-Stripe
-Apple
+- Dribbble
+- Stripe
+- Apple
 =======
 # MotionCraftX
 Crafting high-performance, animation-driven web experiences with modern UI and seamless interactions.
