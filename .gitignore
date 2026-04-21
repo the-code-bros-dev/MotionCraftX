@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 ```gitignore
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+>>>>>>> 7f01260880d5c9504625388c5a67fb7c0d541b53
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
 
+<<<<<<< HEAD
+=======
+# testing
+/coverage
+
+>>>>>>> 7f01260880d5c9504625388c5a67fb7c0d541b53
 # next.js
 /.next/
 /out/
@@ -11,6 +22,7 @@
 # production
 /build
 
+<<<<<<< HEAD
 # environment variables
 .env
 .env.local
@@ -40,6 +52,20 @@ Thumbs.db
 
 # debug
 *.log
+=======
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+>>>>>>> 7f01260880d5c9504625388c5a67fb7c0d541b53
 
 # vercel
 .vercel
@@ -47,9 +73,12 @@ Thumbs.db
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
 # local storage files (if any)
 *.local
 
 # cache
 .cache/
+=======
+>>>>>>> 7f01260880d5c9504625388c5a67fb7c0d541b53
